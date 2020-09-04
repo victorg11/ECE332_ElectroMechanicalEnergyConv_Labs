@@ -1,0 +1,1 @@
+   Lab6.c  Lab6_trc_ptr.c 

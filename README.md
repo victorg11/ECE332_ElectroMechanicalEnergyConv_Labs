@@ -39,5 +39,5 @@ To use this processor, it had to be mounted onto a PCI slot on a desktop with th
 </p>
 
 <p align="center">
-  <img src="https://github.com/victorg11/ECE332_ElectroMechanicalEnergyConv_Labs/blob/master/Output" s=5>
+  <img src="https://github.com/victorg11/ECE332_ElectroMechanicalEnergyConv_Labs/blob/master/Output.png" s=5>
 </p>

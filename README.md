@@ -17,7 +17,9 @@ The digital controller used was the dSPACE DS1104, as depicted below:
 </p>
 
 To use this processor, it had to be mounted onto a PCI slot on a desktop with the necessary Matlab Simulink libraries. 
-
+<p align="center">
+  <img src="https://github.com/victorg11/ECE332_ElectroMechanicalEnergyConv_Labs/blob/master/ComputerHWSetup.png" s=5>
+</p>
 
 ## General HW Configuration
 

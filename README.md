@@ -33,3 +33,11 @@ To use this processor, it had to be mounted onto a PCI slot on a desktop with th
 
 
 ## Typical Design and Simulation
+
+<p align="center">
+  <img src="https://github.com/victorg11/ECE332_ElectroMechanicalEnergyConv_Labs/blob/master/Final Design.png" s=5>
+</p>
+
+<p align="center">
+  <img src="https://github.com/victorg11/ECE332_ElectroMechanicalEnergyConv_Labs/blob/master/Output" s=5>
+</p>

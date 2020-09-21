@@ -1,6 +1,11 @@
 # ECE332_ElectroMechanicalEnergyConv_Labs
 Welcome to my reposity for ECE 332; lab for Electromechanical Energy Conversion (ECE 331) at Oregon State University. SW design in this course was completed using Matlab Simulink and compiled for dSpace, an engineering tool used to test mechanic systems.
 
+The electronic interface board used to control motors and incoming power is the following:
+<p align="center">
+  <img src="https://github.com/victorg11/ECE332_ElectroMechanicalEnergyConv_Labs/blob/master/PowerElectronicsInterfaceBoard.png" s=5>
+</p>
+
 ## Lab Descriptions
 * Lab 1: Motor's speed in respect to voltage.
 * Lab 2: Implemented H-bridge using PWM.
@@ -21,6 +26,5 @@ To use this processor, it had to be mounted onto a PCI slot on a desktop with th
   <img src="https://github.com/victorg11/ECE332_ElectroMechanicalEnergyConv_Labs/blob/master/ComputerHWSetup.png" s=5>
 </p>
 
-## General HW Configuration
 
 ## Typical Design and Simulation

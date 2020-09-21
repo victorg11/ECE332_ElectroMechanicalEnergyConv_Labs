@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root>
+	<creator type="key">ControlDesk 6.2</creator>
+	<project>
+		<Creator type="key">ControlDesk</Creator>
+		<Name type="key">Experiment_7.CDP</Name>
+		<DisplayName type="key">Experiment_7</DisplayName>
+		<Flags type="key">4096</Flags>
+		<Type type="key">1</Type>
+		<UniqueID type="key">12028982</UniqueID>
+		<EntityID type="key">{271B28DD-63FD-4A0F-B972-E5909AC5E47D}</EntityID>
+		<ItemInfoDate type="key">3/13/2020 11:40:03 AM</ItemInfoDate>
+		<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+		<ItemInfoDescr type="key"/>
+		<ItemInfoAddInfoDb type="key"/>
+		<ItemInfoAuthor type="key">garciafv</ItemInfoAuthor>
+		<item>
+			<Targets type="key">project</Targets>
+			<Name type="key">Experiment_7</Name>
+			<DisplayName type="key">Experiment_7</DisplayName>
+			<Path type="key">..</Path>
+			<Flags type="key">4100</Flags>
+			<Type type="key">3</Type>
+			<UniqueID type="key">654775435</UniqueID>
+			<EntityID type="key">{DF6F930D-7760-4454-AF27-4038F142D6B6}</EntityID>
+			<ItemInfoDate type="key">3/13/2020 11:40:03 AM</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">garciafv</ItemInfoAuthor>
+			<item>
+				<Docs type="key">.doc,.docx,.pdf</Docs>
+				<Name type="key">Specifications</Name>
+				<DisplayName type="key">Specifications</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">832309912</UniqueID>
+				<EntityID type="key">{C78B3CAA-439A-437D-A0C0-558ECE5142AC}</EntityID>
+				<ItemInfoDate type="key">3/13/2020 11:40:03 AM</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.doc,.docx,.pdf</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">garciafv</ItemInfoAuthor>
+			</item>
+			<item>
+				<Docs type="key">.mpp</Docs>
+				<Name type="key">Project Plans</Name>
+				<DisplayName type="key">Project Plans</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">39713994</UniqueID>
+				<EntityID type="key">{B1D746C2-5572-4B8C-8954-B68C924CEE75}</EntityID>
+				<ItemInfoDate type="key">3/13/2020 11:40:03 AM</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.mpp</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">garciafv</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">datasetmanager_global</Targets>
+				<Name type="key">Global Data Sets</Name>
+				<DisplayName type="key">Global Data Sets</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">256</Flags>
+				<Type type="key">29</Type>
+				<UniqueID type="key">1012452809</UniqueID>
+				<EntityID type="key">{99ED3956-1FC7-49D4-9E5C-36FF45C7487A}</EntityID>
+				<ItemInfoDate type="key">3/13/2020 11:40:03 AM</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">garciafv</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">variablesmanagement</Targets>
+				<Name type="key">Variable Descriptions</Name>
+				<DisplayName type="key">Variable Descriptions</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">256</Flags>
+				<ExtendedFlags type="key">4</ExtendedFlags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">496240874</UniqueID>
+				<EntityID type="key">{943C15AC-E98F-4D63-AEF7-0AAC7FAAADCD}</EntityID>
+				<ItemInfoDate type="key">3/13/2020 11:40:03 AM</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">garciafv</ItemInfoAuthor>
+				<item>
+					<Component type="key">VariablesManagement</Component>
+					<Name type="key">Experiment_7.vdb</Name>
+					<DisplayName type="key">\\depot.engr.oregonstate.edu\users\garciafv\Windows.Documents\Desktop\ECE_332\Lab 7\Experiment_7\Variable Descriptions\Experiment_7.vdb</DisplayName>
+					<Path type="key">.\Variable Descriptions</Path>
+					<Flags type="key">276</Flags>
+					<Type type="key">18</Type>
+					<UniqueID type="key">354037716</UniqueID>
+					<EntityID type="key">{41983709-BABD-4D7F-81E9-905B8CFF4EE7}</EntityID>
+					<ItemInfoDate type="key">3/13/2020 11:40:05 AM</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">garciafv</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">VariablesManagement</Component>
+					<Name type="key">lab7.sdf</Name>
+					<DisplayName type="key">lab7.sdf</DisplayName>
+					<Path type="key">.\Variable Descriptions\lab7.sdf</Path>
+					<Flags type="key">18704</Flags>
+					<Type type="key">7</Type>
+					<UniqueID type="key">372514151</UniqueID>
+					<EntityID type="key">{3673CC6B-8A89-4639-AFD0-8B49A5CB61FD}</EntityID>
+					<ItemInfoDate type="key">3/13/2020 11:40:04 AM</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoLog type="key">
+Original file added from ..\lab7.sdf [2020-03-13 18:36:30 (UTC)]
+
+Variable description reloaded on 13.03.2020 12:37:44 (\\depot.engr.oregonstate.edu\users\garciafv\Windows.Documents\Desktop\ECE_332\Lab 7\lab7.sdf)
+Original file added from ..\lab7.sdf [2020-03-13 19:36:43 (UTC)]
+
+Variable description reloaded on 13.03.2020 12:42:58 (\\depot.engr.oregonstate.edu\users\garciafv\Windows.Documents\Desktop\ECE_332\Lab 7\lab7.sdf)
+Original file added from ..\lab7.sdf [2020-03-13 19:42:47 (UTC)]
+
+Variable description reloaded on 13.03.2020 12:48:38 (\\depot.engr.oregonstate.edu\users\garciafv\Windows.Documents\Desktop\ECE_332\Lab 7\lab7.sdf)
+Original file added from ..\lab7.sdf [2020-03-13 19:47:14 (UTC)]
+
+Variable description reloaded on 13.03.2020 12:49:29 (\\depot.engr.oregonstate.edu\users\garciafv\Windows.Documents\Desktop\ECE_332\Lab 7\lab7.sdf)
+Original file added from ..\lab7.sdf [2020-03-13 19:47:14 (UTC)]
+</ItemInfoLog>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">garciafv</ItemInfoAuthor>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Name type="key">lab7.trc</Name>
+						<DisplayName type="key">lab7.trc</DisplayName>
+						<Path type="key">.\Variable Descriptions\lab7.sdf</Path>
+						<Flags type="key">18692</Flags>
+						<ExtendedFlags type="key">1</ExtendedFlags>
+						<Type type="key">4</Type>
+						<UniqueID type="key">898175020</UniqueID>
+						<EntityID type="key">{156271AB-9CF1-4545-9761-67614A16FBCA}</EntityID>
+						<ItemInfoDate type="key">3/13/2020 12:49:29 PM</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">garciafv</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Name type="key">lab7.map</Name>
+						<DisplayName type="key">lab7.map</DisplayName>
+						<Path type="key">.\Variable Descriptions\lab7.sdf</Path>
+						<Flags type="key">18692</Flags>
+						<ExtendedFlags type="key">1</ExtendedFlags>
+						<Type type="key">4</Type>
+						<UniqueID type="key">327612687</UniqueID>
+						<EntityID type="key">{30717DBE-7848-4F56-B8C5-CD9478E9C8A7}</EntityID>
+						<ItemInfoDate type="key">3/13/2020 12:49:29 PM</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">garciafv</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Name type="key">lab7.ppc</Name>
+						<DisplayName type="key">lab7.ppc</DisplayName>
+						<Path type="key">.\Variable Descriptions\lab7.sdf</Path>
+						<Flags type="key">18692</Flags>
+						<ExtendedFlags type="key">1</ExtendedFlags>
+						<Type type="key">30</Type>
+						<UniqueID type="key">203588129</UniqueID>
+						<EntityID type="key">{97A80310-FB2E-417E-842C-A7DF63A79072}</EntityID>
+						<ItemInfoDate type="key">3/13/2020 12:49:29 PM</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">garciafv</ItemInfoAuthor>
+					</item>
+				</item>
+			</item>
+			<item>
+				<Targets type="key">datasetmanager</Targets>
+				<Name type="key">Data Sets</Name>
+				<DisplayName type="key">Data Sets</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">260</Flags>
+				<Type type="key">29</Type>
+				<UniqueID type="key">742399065</UniqueID>
+				<EntityID type="key">{6AC82892-1D7E-4FE5-AA8D-550B76D98180}</EntityID>
+				<ItemInfoDate type="key">3/13/2020 11:40:03 AM</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">garciafv</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">.vfe</Targets>
+				<Name type="key">Variable Filters</Name>
+				<DisplayName type="key">Variable Filters</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">2304</Flags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">75774357</UniqueID>
+				<EntityID type="key">{D9E0CE84-780F-4AF0-9EF7-C040C20E5A4B}</EntityID>
+				<ItemInfoDate type="key">3/13/2020 11:40:03 AM</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">garciafv</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">.lab</Targets>
+				<Docs type="key">.lab,.txt</Docs>
+				<Name type="key">Label Lists</Name>
+				<DisplayName type="key">Label Lists</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">335947964</UniqueID>
+				<EntityID type="key">{B01D83B9-3525-4A22-8492-7F6AFA45CFB5}</EntityID>
+				<ItemInfoDate type="key">3/13/2020 11:40:03 AM</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.lab,.txt</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">garciafv</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">interpreter,.py</Targets>
+				<Docs type="key">.py</Docs>
+				<Name type="key">Python Scripts</Name>
+				<DisplayName type="key">Python Scripts</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">256</Flags>
+				<ExtendedFlags type="key">4224</ExtendedFlags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">283001272</UniqueID>
+				<EntityID type="key">{551FDF31-01F5-476A-849C-0D0AA5C9E20C}</EntityID>
+				<ItemInfoDate type="key">3/13/2020 11:40:03 AM</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.py</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">garciafv</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">busnavigator,.xml</Targets>
+				<Name type="key">BusNavigator</Name>
+				<DisplayName type="key">BusNavigator</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">260</Flags>
+				<ExtendedFlags type="key">256</ExtendedFlags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">701991866</UniqueID>
+				<EntityID type="key">{CA270F8F-FAA8-47EB-9110-FD93EB34DEF0}</EntityID>
+				<ItemInfoDate type="key">3/13/2020 11:40:03 AM</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">garciafv</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">signaleditor</Targets>
+				<Name type="key">Signal Description Sets</Name>
+				<DisplayName type="key">Signal Description Sets</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">256</Flags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">642798753</UniqueID>
+				<EntityID type="key">{35AA7D7E-7134-4BEB-94EF-CF5385CFBF32}</EntityID>
+				<ItemInfoDate type="key">3/13/2020 11:40:03 AM</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">garciafv</ItemInfoAuthor>
+			</item>
+		</item>
+		<item>
+			<Name type="key">Events</Name>
+			<DisplayName type="key">Events</DisplayName>
+			<Path type="key">.</Path>
+			<Flags type="key">4</Flags>
+			<Type type="key">3</Type>
+			<UniqueID type="key">657485850</UniqueID>
+			<EntityID type="key">{7FDB5793-B530-4D8A-A8F9-D0AED027A407}</EntityID>
+			<ItemInfoDate type="key">3/13/2020 11:40:05 AM</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">garciafv</ItemInfoAuthor>
+			<item>
+				<Name type="key">Project.events</Name>
+				<DisplayName type="key">Project.events</DisplayName>
+				<Path type="key">.\Events</Path>
+				<Flags type="key">4</Flags>
+				<Type type="key">52</Type>
+				<UniqueID type="key">320994006</UniqueID>
+				<EntityID type="key">{8A51A56E-AB59-45E6-A10F-8CDE1BD1B790}</EntityID>
+				<ItemInfoDate type="key">3/13/2020 11:40:05 AM</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">garciafv</ItemInfoAuthor>
+			</item>
+		</item>
+	</project>
+	<experiments>
+		<experiment>
+			<Creator type="key">ControlDesk</Creator>
+			<Name type="key">Experiment_007.CDE</Name>
+			<DisplayName type="key">Experiment_007</DisplayName>
+			<Path type="key">.\Experiment_007</Path>
+			<Flags type="key">4096</Flags>
+			<Type type="key">2</Type>
+			<UniqueID type="key">746461018</UniqueID>
+			<EntityID type="key">{0CDB9110-1444-44D1-B5CC-7B7118E5BDDC}</EntityID>
+			<ItemInfoDate type="key">3/13/2020 11:40:03 AM</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">garciafv</ItemInfoAuthor>
+		</experiment>
+	</experiments>
+	<UserManager/>
+	<XILAPIEESPort Version="1"/>
+	<SignalEditor/>
+	<Interpreter/>
+	<VariablesManagement Version="95">
+		<CreatorVersion type="key">602000599</CreatorVersion>
+	</VariablesManagement>
+	<ProjectExperiment>
+		<LastActiveExperiment type="key">Experiment_007</LastActiveExperiment>
+	</ProjectExperiment>
+	<MeasureDataManagement Version="4"/>
+	<Instrumentation Version="1">
+		<UniqueIds Version="3">
+			<Count type="key">1</Count>
+			<File1 type="key">Experiment_007/Layout1</File1>
+			<Id1 type="key">0</Id1>
+		</UniqueIds>
+	</Instrumentation>
+	<DiagnosticsManagement/>
+	<PlatformManagement Version="10"/>
+	<DataSetManager>
+		<Version>
+			<Version type="key">2</Version>
+		</Version>
+		<Work/>
+		<ActiveWork/>
+		<Reference/>
+		<ActiveReference/>
+		<Master/>
+		<ActiveMaster/>
+		<InitialMaster/>
+		<Incomplete/>
+		<IncompleteReadonly/>
+		<DataSet/>
+		<Readonly/>
+		<LabelListFilter>
+			<LabelListFilterFile type="key"/>
+			<LabelListFilterActive type="key">0</LabelListFilterActive>
+		</LabelListFilter>
+		<AutomaticDownload/>
+	</DataSetManager>
+</Root>

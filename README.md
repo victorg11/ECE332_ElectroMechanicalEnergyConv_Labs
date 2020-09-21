@@ -11,6 +11,7 @@ Welcome to my reposity for ECE 332; lab for Electromechanical Energy Conversion 
 * Lab 7: Converted lab 6 into a closed-loop system.
 
 ## Controller Information
+<img src="https://github.com/victorg11/ECE332_ElectroMechanicalEnergyConv_Labs/blob/master/Processor.png" s=10>
 
 ## General HW Configuration
 

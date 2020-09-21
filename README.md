@@ -11,7 +11,9 @@ Welcome to my reposity for ECE 332; lab for Electromechanical Energy Conversion 
 * Lab 7: Converted lab 6 into a closed-loop system.
 
 ## Controller Information
+The digital controller used was the dSPACE DS1104, as depicted below:
 <img src="https://github.com/victorg11/ECE332_ElectroMechanicalEnergyConv_Labs/blob/master/Processor.png" s=5>
+
 
 ## General HW Configuration
 

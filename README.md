@@ -12,7 +12,11 @@ Welcome to my reposity for ECE 332; lab for Electromechanical Energy Conversion 
 
 ## Controller Information
 The digital controller used was the dSPACE DS1104, as depicted below:
-<img src="https://github.com/victorg11/ECE332_ElectroMechanicalEnergyConv_Labs/blob/master/Processor.png" s=5>
+<p align="center">
+  <img src="https://github.com/victorg11/ECE332_ElectroMechanicalEnergyConv_Labs/blob/master/Processor.png" s=5>
+</p>
+
+To use this processor, it had to be mounted onto a PCI slot on a desktop with the necessary Matlab Simulink libraries. 
 
 
 ## General HW Configuration

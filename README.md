@@ -3,12 +3,12 @@ Welcome to my reposity for ECE 332; lab for Electromechanical Energy Conversion 
 
 The electronic interface board used to control motors and incoming power is the following:
 <p align="center">
-  <img src="https://github.com/victorg11/ECE332_ElectroMechanicalEnergyConv_Labs/blob/master/LabIntro.png" s=5>
+  <img src="https://github.com/victorg11/ECE332_ElectroMechanicalEnergyConv_Labs/blob/master/PowerElectronicsInterfaceBoard.png" s=5>
 </p>
 
 A typical set-up is as such:
 <p align="center">
-  <img src="https://github.com/victorg11/ECE332_ElectroMechanicalEnergyConv_Labs/blob/master/PowerElectronicsInterfaceBoard.png" s=5>
+  <img src="https://github.com/victorg11/ECE332_ElectroMechanicalEnergyConv_Labs/blob/master/LabIntro.png" s=5>
 </p>
 
 ## Lab Descriptions
